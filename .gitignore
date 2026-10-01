@@ -1,0 +1,15 @@
+# Compilación y artefactos de Maven / Karate
+target/
+*.class
+*.log
+
+# Configuraciones de editores / IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
